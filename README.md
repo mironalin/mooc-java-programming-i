@@ -1,1 +1,4 @@
-Submissions for the Java Programming Course I from MOOC.fi
+# Java Programming I
+Java Programming Course I Submissions
+This repository contains my submissions for Java Programming Course I by University of Helsinki
+
